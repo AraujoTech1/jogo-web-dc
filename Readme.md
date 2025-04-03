@@ -4,7 +4,7 @@
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="20" height="20"/> Angular
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" style="margin-left: 10px"/> React
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" height="20" style="margin-left: 10px"/> GitHub
+  
   </p>
 </div>
 
