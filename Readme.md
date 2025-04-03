@@ -31,7 +31,7 @@ Este é um jogo de múltipla escolha sobre Heróis e Vilões da DC. O objetivo �
 Foram realizados os seguintes testes:
 - **Teste de depuração:** Verificação de erros no console e correções no código.
 - **Teste de funcionamento:** Jogo testado no navegador para garantir interação correta.
-- **Captura do teste realizado:**
+- **Teste realizado:**
   
   <img src="./imagem/capturaimg.png" alt="Captura do Jogo" width="400px">
 
