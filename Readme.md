@@ -39,13 +39,13 @@ Foram realizados os seguintes testes:
 
 ![HTML5](https://img.shields.io/badge/HTML5-89CFF0?style=flat&logo=html5&logoColor=white&labelColor=24292F)
 ![CSS3](https://img.shields.io/badge/CSS3-89CFF0?style=flat&logo=css3&logoColor=white&labelColor=24292F)
-![JavaScript](https://img.shields.io/badge/JavaScript-89CFF0?style=flat&logo=javascript&logoColor=black&labelColor=24292F)
+![JavaScript](https://img.shields.io/badge/JavaScript-89CFF0?style=flat&logo=javascript&logoColor=white&labelColor=24292F)
 ![Node.js](https://img.shields.io/badge/Node.js-89CFF0?style=flat&logo=nodedotjs&logoColor=white&labelColor=24292F)
 ![VSCode](https://img.shields.io/badge/VSCode-89CFF0?style=flat&logo=visualstudiocode&logoColor=white&labelColor=24292F)
 ![Git](https://img.shields.io/badge/Git-89CFF0?style=flat&logo=git&logoColor=white&labelColor=24292F)
 
 ## Bibliotecas e Frameworks  
-![React](https://img.shields.io/badge/React-89CFF0?style=flat&logo=react&logoColor=61DAFB&labelColor=24292F)
+![React](https://img.shields.io/badge/React-89CFF0?style=flat&logo=react&logoColor=white&labelColor=24292F)
 ![Angular](https://img.shields.io/badge/Angular-89CFF0?style=flat&logo=angular&logoColor=white&labelColor=24292F)
 
 
